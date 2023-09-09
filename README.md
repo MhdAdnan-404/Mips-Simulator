@@ -51,7 +51,7 @@
 
 <p align="center">
   
-<img src="https://github.com/404dn/Mips-Simulator/blob/master/pictuers/MipsSimPic.png" alt="drawing" width="400"/>
+<img src="https://github.com/404dn/Mips-Simulator/blob/master/pictuers/MipsSimPic.png" alt="drawing" width="700"/>
 </p>
 
 
