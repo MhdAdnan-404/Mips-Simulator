@@ -1,8 +1,7 @@
-# Mips-Simulator
 
-# Trivia-Game
 ## Project
 
+# Mips-Simulator
 
 <br />
 
